@@ -9,7 +9,7 @@ function serviceHeader() {
 
 function serviceHost(a, b, e) {
     // URL вашего сервера или официальный сервер DeepL
-    var hostUrl = "https://rfntws2k.bropinesd.online";
+    var hostUrl = "https://rfntws2k.bropinus.ru";
 
     // Раскомментируйте и установите URL вашего сервера, если он отличается
     // hostUrl = "https://rfntws2k.bropinesd.online";
